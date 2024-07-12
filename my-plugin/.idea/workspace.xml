@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a33efe22-fdb8-46e4-9f0f-5e0fadf9b4af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-kotlin-project/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="my-plugin" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2j9vtIcY3W9AHHvs7ySS4Ubgt7U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build my-plugin.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Add-standalone-kotlin-project",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/rjspies/Projects/my-first-monorepo/my-plugin/src/main/kotlin/Main.kt"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "/home/rjspies/.gradle"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rjspies.MainKt" />
+      <module name="my-plugin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="my-kotlin-project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="my-kotlin-project" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33efe22-fdb8-46e4-9f0f-5e0fadf9b4af" name="Changes" comment="" />
+      <created>1720812321722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720812321722</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
